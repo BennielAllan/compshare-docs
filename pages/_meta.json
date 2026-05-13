@@ -1,0 +1,32 @@
+{
+  "overview": {
+    "title": "平台概述",
+    "type": "page"
+  },
+  "operation": {
+    "title": "GPU操作指南",
+    "type": "page"
+  },
+  "gpus": {
+    "title": "GPU服务API文档",
+    "type": "page"
+  },
+  "modelverse": {
+    "title": "模型API服务指南",
+    "type": "page"
+  },
+  "uaccount": {
+    "title": "账号与账单",
+    "type": "page"
+  },
+  "serviceagreement": {
+    "title": "服务协议",
+    "type": "page"
+  },
+  "console": {
+    "title": "控制台",
+    "href": "https://console.compshare.cn",
+    "newWindow": true,
+    "type": "page"
+  }
+}

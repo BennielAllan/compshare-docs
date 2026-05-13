@@ -1,0 +1,7 @@
+{
+  "package": "套餐包快速上手",
+  "logic": "套餐计费逻辑",
+  "stats": "套餐用量统计",
+  "usecases": "客户端接入",
+  "openclaw": "OpenClaw附加权益"
+}

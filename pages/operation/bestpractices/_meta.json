@@ -1,0 +1,14 @@
+ {
+    "isaac":"Isaac系列镜像使用教程",
+    "windows":"Windows实例远程登录手册",
+    "createVNC":"通过VNC搭建Ubuntu图形界面",
+    "installdify":"ubuntu如何安装Dify",
+    "installdocker":"ubuntu如何安装Docker",
+    "installcuda":"Windows安装Nvidia驱动和Cuda",
+    "installlinux":"ubuntu安装Nvidia驱动和Cuda",
+    "installlangbot":"使用LangBot快速部署QQ、微信、飞书、钉钉机器人",
+    "telegram":"使用Clawdbot连接Telegram",
+    "feishu":"使用Clawdbot连接飞书"
+}
+
+

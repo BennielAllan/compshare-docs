@@ -1,0 +1,45 @@
+import React from 'react'
+import Script from 'next/script'
+import '../styles.css'
+export default function MyApp({ Component, pageProps }) {
+  return (
+    <div>
+      <Component {...pageProps} />
+      <Script
+        id="howxm"
+        strategy="afterInteractive"
+        dangerouslySetInnerHTML={{
+          __html: `
+          function _howxm(){_howxmQueue.push(arguments)}
+          window._howxmQueue=window._howxmQueue||[];
+          _howxm('setAppID','20c044a5-1305-48f2-8daf-60803dceb9f5');
+          (function(){var scriptId='howxm_script';
+          if(!document.getElementById(scriptId)){
+          var e=document.createElement('script'),
+          t=document.getElementsByTagName('script')[0];
+          e.setAttribute('id',scriptId);
+          e.type='text/javascript';e.async=!0;
+          e.src='https://static.howxm.com/sdk.js';
+          t.parentNode.insertBefore(e,t)}})();
+          `,
+        }}
+      />
+      <Script
+        id="baiduhm"
+        strategy="afterInteractive"
+        dangerouslySetInnerHTML={{
+          __html: `
+            var _hmt = _hmt || [];
+            (function() {
+              var hm = document.createElement("script");
+              hm.async=!0;
+              hm.src = "https://hm.baidu.com/hm.js?c38e3ad35d5ada98b96a2ea07773ec4e";
+              var s = document.getElementsByTagName("script")[0]; 
+              s.parentNode.insertBefore(hm, s);
+            })();
+          `,
+        }}
+      />
+    </div>
+  );
+}

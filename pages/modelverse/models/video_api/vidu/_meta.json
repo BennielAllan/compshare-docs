@@ -1,0 +1,8 @@
+{
+  "Vidu-Text2Video": "Vidu/文生视频",
+  "Vidu-Img2Video": "Vidu/图生视频",
+  "Vidu-Reference2Video": "Vidu/参考图生视频",
+  "Vidu-StartEnd2Video": "Vidu/首尾帧生视频",
+  "Vidu-Extend": "Vidu/视频延长",
+  "Vidu-LipSync": "Vidu/对口型"
+}

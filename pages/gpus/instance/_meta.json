@@ -1,0 +1,29 @@
+{
+  "createcompshareinstance": "创建GPU资源",
+  "describecompshareinstance": "获取实例资源列表",
+  "startcompshareinstance": "启动实例",
+  "stopcompshareinstance": "关闭实例",
+  "terminatecompshareinstance": "删除实例",
+  "rebootcompshareinstance": "重启实例",
+  "reinstallcompshareinstance": "重装实例",
+  "resetcompshareinstancepassword": "重置实例密码",
+  "resizecompshareinstance": "升降配实例",
+  "describecompsharesupportzone": "获取支持的可用区信息列表",
+  "checkcompsharenetoptimizer": "查询网络加速服务状态",
+  "checkcompshareresourcecapacity": "检查指定规格的资源可用性",
+  "describeavailablecompshareinstancetypes": "获取可用机型列表",
+  "describecompsharemachinetypefamilies": "获取机型族列表",
+  "describecompsharesoftwareport": "查询软件端口映射列表",
+  "describemodelrepositorymodels": "查询模型仓库模型列表",
+  "getcompshareinstancemonitor": "获取实例监控数据",
+  "getcompshareinstanceprice": "查询创建实例价格",
+  "getcompshareinstanceupgradeprice": "查询实例升配价格",
+  "getcompshareinstanceuserprice": "查询实例当前计费信息",
+  "getcompsharerefundprice": "查询退费金额",
+  "getsoftwareurl": "获取实例上软件的访问地址",
+  "modifycompshareinstancename": "修改实例名称",
+  "updatecompsharestopscheduler": "设置/更新定时关机",
+  "deletecompsharestopscheduler": "取消定时关机"
+
+}
+

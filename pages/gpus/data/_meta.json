@@ -1,0 +1,11 @@
+{
+  "createandattachcompsharedisk": "创建并挂载云盘",
+  "deletecompsharedisk": "删除云盘",
+  "detachcompsharedisk": "卸载云盘",
+  "resizecompsharedisk": "扩容云盘",
+  "attachcompsharedisk": "挂载已有云盘",
+  "getcompshareattacheddiskupgradeprice": "查询云盘扩容价格",
+  "attachus3": "挂载 US3 对象存储到实例",
+  "us3fileoperation": "云存储文件上传和下载"
+}
+

@@ -1,0 +1,20 @@
+{
+  "createcompshareteam": "创建团队",
+  "createcompshareteamrelation": "邀请成员加入团队",
+  "deletecompshareteam": "删除团队",
+  "describeteammemberorder": "查询成员订单列表",
+  "describeteammemberordercount": "查询成员订单数量",
+  "describeteammemberunpaidorder": "查询成员未支付订单",
+  "describeteammemberunpaidordercount": "查询成员未支付订单数量",
+  "downloadteamorder": "导出团队账单",
+  "getcompshareteaminfo": "获取团队详情",
+  "listcompshareteam": "查询已创建的团队列表",
+  "listcompshareteaminvite": "查询团队邀请记录",
+  "listcompshareteamjoined": "查询已加入的团队列表",
+  "listcompshareteamoperatelog": "查询团队操作日志",
+  "listmemberproducttype": "查询成员产品类型列表",
+  "setcompshareteamamount": "设置成员额度",
+  "setcompshareteamrelation": "修改成员角色",
+  "updatecompshareteam": "更新团队信息"
+}
+

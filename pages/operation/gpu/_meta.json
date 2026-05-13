@@ -1,0 +1,17 @@
+{
+    "community":"镜像选择",
+    "createresources":"创建实例",
+    "logininstance":"登录实例",
+    "uploaddata":"本地数据上传",
+    "filebrowser":"文件管理",
+    "releasecommunity": "制作私有镜像",
+    "usepublicmodel":"调用公共模型库",
+    "firewall":"防火墙及端口设置",
+    "uaaa":"配置外网加速",
+    "disk":"云硬盘扩容与挂载",
+    "s3describe":"云存储挂载",
+    "upfsmount":"模型库挂载",
+    "selfstart":"自启动",
+    "resourcemonitoring":"手动安装监控",
+    "cardlessmode":"无卡模式"
+}

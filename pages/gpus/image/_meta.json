@@ -1,0 +1,20 @@
+{
+  "describecompsharecustomimages": "获取自制镜像列表",
+  "createcompsharecustomimage": "创建自制镜像",
+  "terminatecompsharecustomimage": "删除算力平台自制镜像",
+  "describecommunityimages": "获取社区镜像列表",
+  "describecompshareimages": "获取平台镜像列表",
+  "describecompshareimageshareaccounts": "查询镜像已共享的账户列表",
+  "describecompshareimagetags": "获取镜像标签列表",
+  "describecompsharesharingimages": "查询他人共享给自己的镜像",
+  "describefavoriteimages": "查询已收藏的镜像列表",
+  "describeselfcommunityimages": "查询自己发布的社区镜像",
+  "describeusercommunityimages": "查询指定用户的社区镜像",
+  "getcompshareimagecreateprogress": "查询镜像制作进度",
+  "modifycompshareimageshareaccount": "共享/取消共享镜像",
+  "publishcompshareimage": "发布镜像到社区",
+  "addfavoriteimage": "收藏镜像",
+  "removefavoriteimage": "取消收藏镜像",
+  "updatecompshareimage": "更新镜像信息"
+}
+
