@@ -1,24 +1,28 @@
-# 共享算力平台帮助文档
+# CompShare 优云算力文档
 
-## 添加文档
+本仓库包含 [CompShare 优云算力平台](https://www.compshare.cn) 的全部帮助文档，涵盖：
 
-1. 在`pages`目录下添加`markdown`文件，如`demo.mdx`
-2. 编辑`demo.mdx`文档内容
-3. 编辑`pages/_meta.json`，设置侧边栏的文档显示标题和位置，如：
+- **GPU 操作指南** — 创建实例、登录、磁盘、镜像、计费等
+- **GPU 服务 API** — 完整的 OpenAPI 参考文档
+- **模型 API 服务（Modelverse）** — 文本、图像、音频、视频模型接入
+- **账号与账单** — 注册、实名、充值、发票
+- **平台概述** — 产品介绍、会员权益、活动公告
+- **服务协议** — 用户协议、隐私政策、SLA
 
-```js
-{
-  ...
-  "demo": "Demo Page",
-  ...
-}
+## 文档结构
+
+```
+pages/
+├── gpus/          # GPU 服务 API 文档
+├── operation/     # GPU 操作指南
+├── modelverse/    # 模型 API 服务文档
+├── uaccount/      # 账号与账单
+├── overview/      # 平台概述
+└── serviceagreement/  # 服务协议
+public/            # 文档图片资源
 ```
 
-## 发布
+## 相关链接
 
-- 编辑完提交后，等待 CICD 执行完毕，访问[Test03 预览地址](http://compshare-docs.prj-console.svc.x6.u4/docs)查看更新；
-- Test03 预览确认无误后，手动点击 CICD 中的`job-prod-deploy`执行线上发布。
-
-## 预览
-
-Test03 地址：http://compshare-docs.prj-console.svc.x6.u4/docs
+- 控制台：https://www.compshare.cn
+- API 端点：https://api.compshare.cn
