@@ -1,6 +1,6 @@
-# CompShare 优云算力文档
+# CompShare 优云智算文档
 
-[CompShare 优云算力平台](https://www.compshare.cn) 的帮助文档仓库。
+[CompShare 优云智算平台](https://www.compshare.cn) 的帮助文档仓库。
 
 - 控制台：https://www.compshare.cn
 - API 端点：`https://api.compshare.cn`

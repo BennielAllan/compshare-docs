@@ -2,7 +2,7 @@
 
 ## 接口说明
 
-创建一台优云算力 GPU 实例。调用成功后返回实例短 ID（`UHostIds`），可通过 `DescribeCompShareInstance` 查询实例状态。
+创建一台优云智算 GPU 实例。调用成功后返回实例短 ID（`UHostIds`），可通过 `DescribeCompShareInstance` 查询实例状态。
 
 ### 使用限制
 
